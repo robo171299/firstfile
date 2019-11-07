@@ -1,0 +1,27 @@
+#header
+{
+   font-size:15px;
+    text-align: center;
+    color: cornsilk;
+    background-color: darkcyan
+
+       
+}
+#content
+{
+    font-size: 25px;
+    text-align: center;
+    color:gray;
+    
+    background-color:khaki;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+#link
+{
+   text-align: center;
+    background-color:fuchsia
+
+    
+}
